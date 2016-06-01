@@ -1,0 +1,17 @@
+{
+  "name": "angular_with_tests",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sitypop <sityemilyshah@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
